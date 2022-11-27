@@ -1,0 +1,10 @@
+.container {
+    width: 1440px auto;
+    margin: 40px auto;
+}
+.header {
+    border: 2px solid red;
+    margin-top: 60px;
+    display flex: ;
+    justify-content:space-between ;
+}
